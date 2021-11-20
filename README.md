@@ -1,0 +1,1 @@
+Simple chat to learn working with sockets.
